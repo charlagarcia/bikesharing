@@ -1,4 +1,5 @@
 # bikesharing
+[link to dashboard](https://public.tableau.com/app/profile/charla.garcia/viz/CitiBikeNYC_16440864618990/CitibikeStory)
 
 ## Purpose
 Citibike is thriving in NYC, and Des Moines wants to see if it would be a good investiment to bring the company to their city. 
